@@ -9,6 +9,7 @@ Student
 * ✉️  You can contact me at [michaeldandreajr@yahoo.com](mailto:michaeldandreajr@yahoo.com)
 * 🧠  I'm learning C, C#, Python, Java, HTML and JavaScript
 * ⚡  I am an Eagle Scout!
+* 🎓 Coastal Carolina University Graduate
 
 ### Skills
 
